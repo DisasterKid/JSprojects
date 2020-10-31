@@ -1,0 +1,25 @@
+index
+
+
+search bar to find products
+hero for weekly deals
+new products
+weekly  deals
+special seasonal products
+categories of products
+
+category page
+list products of  said category
+
+
+
+account page
+
+name
+address
+phone number
+cc number
+email
+
+
+
